@@ -6,8 +6,6 @@ These are aerodrome charts (GND) and parking position charts (PAR) for every air
 
 > Unofficial charts, not made by Eagle Dynamics. For simulation only, **not for real-world navigation**.
 
-Everything is generated automatically from the files of the DCS installation: runways, taxiways, signs, holding positions, parking positions, buildings, frequencies and navaids. Nothing was traced by hand.
-
 ## Folders
 
 | Folder | Content |

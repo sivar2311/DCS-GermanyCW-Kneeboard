@@ -6,8 +6,6 @@ Platzkarten (GND) und Parkpositionskarten (PAR) für alle Flugplätze mit befest
 
 > Inoffizielle Karten, nicht von Eagle Dynamics. Nur für die Simulation, **nicht für die reale Navigation**.
 
-Alle Inhalte werden automatisch aus den Dateien der DCS-Installation erzeugt: Bahnen, Rollwege, Schilder, Haltepunkte, Parkpositionen, Gebäude, Frequenzen und Funkfeuer. Es wurde nichts von Hand nachgezeichnet.
-
 ## Ordner
 
 | Ordner | Inhalt |
