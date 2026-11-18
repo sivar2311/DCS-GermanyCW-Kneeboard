@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024">
+<rect width="768" height="1024" fill="#fff"/>
+
+<text x="30.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
+<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 03 · P2/2</text>
+<text x="738.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#000" >ZOLLSCHEN (A9)</text>
+<clipPath id="mc"><rect x="30" y="50" width="708" height="722"/></clipPath>
+<g clip-path="url(#mc)">
+<defs><marker id="ah" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#000"/></marker></defs>
+<rect x="30" y="50" width="708" height="722" fill="#fff"/>
+<line x1="231.0" y1="50" x2="231.0" y2="56" stroke="#000" stroke-width="0.8"/>
+<text x="228.0" y="80.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 228.0 80.0)" >012°05.50</text>
+<line x1="438.5" y1="50" x2="438.5" y2="56" stroke="#000" stroke-width="0.8"/>
+<text x="435.5" y="80.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 435.5 80.0)" >012°06.00</text>
+<line x1="646.0" y1="50" x2="646.0" y2="56" stroke="#000" stroke-width="0.8"/>
+<text x="643.0" y="80.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 643.0 80.0)" >012°06.50</text>
+<line x1="141.5" y1="772" x2="141.5" y2="766" stroke="#000" stroke-width="0.8"/>
+<text x="138.5" y="742.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 138.5 742.0)" >012°05.50</text>
+<line x1="349.0" y1="772" x2="349.0" y2="766" stroke="#000" stroke-width="0.8"/>
+<text x="346.0" y="742.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 346.0 742.0)" >012°06.00</text>
+<line x1="557.0" y1="772" x2="557.0" y2="766" stroke="#000" stroke-width="0.8"/>
+<text x="554.0" y="742.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-90.0 554.0 742.0)" >012°06.50</text>
+<line x1="30" y1="181.0" x2="36" y2="181.0" stroke="#000" stroke-width="0.8"/>
+<text x="38.0" y="178.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >51°16.25</text>
+<line x1="30" y1="347.0" x2="36" y2="347.0" stroke="#000" stroke-width="0.8"/>
+<text x="38.0" y="344.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >51°16.00</text>
+<line x1="30" y1="513.0" x2="36" y2="513.0" stroke="#000" stroke-width="0.8"/>
+<text x="38.0" y="510.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >51°15.75</text>
+<line x1="30" y1="679.0" x2="36" y2="679.0" stroke="#000" stroke-width="0.8"/>
+<text x="38.0" y="676.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >51°15.50</text>
+<line x1="738" y1="102.5" x2="732" y2="102.5" stroke="#000" stroke-width="0.8"/>
+<text x="730.0" y="99.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="end" fill="#000" >51°16.50</text>
+<line x1="738" y1="268.5" x2="732" y2="268.5" stroke="#000" stroke-width="0.8"/>
+<text x="730.0" y="265.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="end" fill="#000" >51°16.25</text>
+<line x1="738" y1="434.5" x2="732" y2="434.5" stroke="#000" stroke-width="0.8"/>
+<text x="730.0" y="431.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="end" fill="#000" >51°16.00</text>
+<line x1="738" y1="600.5" x2="732" y2="600.5" stroke="#000" stroke-width="0.8"/>
+<text x="730.0" y="597.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="end" fill="#000" >51°15.75</text>
+<line x1="738" y1="766.5" x2="732" y2="766.5" stroke="#000" stroke-width="0.8"/>
+<text x="730.0" y="763.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="end" fill="#000" >51°15.50</text>
+<polygon points="250.1,507.3 94.9,614.8 95.1,615.0" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="250.1,507.3 95.1,615.0 250.3,507.5" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="252.7,505.5 250.1,507.3 250.3,507.5" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="252.7,505.5 250.3,507.5 252.9,505.7" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="676.5,212.2 252.7,505.5 252.9,505.7" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="676.5,212.2 252.9,505.7 676.6,212.4" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="246.5,502.2 91.3,609.7 91.5,609.8" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="246.5,502.2 91.5,609.8 246.6,502.4" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.0,500.5 246.5,502.2 246.6,502.4" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.0,500.5 246.6,502.4 249.2,500.6" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="672.9,207.1 249.0,500.5 249.2,500.6" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="672.9,207.1 249.2,500.6 673.1,207.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.2,500.6 251.0,503.3 673.9,210.2" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.2,500.6 673.9,210.2 673.1,207.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.2,500.6 246.6,502.4 248.4,505.0" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="249.2,500.6 248.4,505.0 251.0,503.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="673.9,210.2 251.0,503.3 252.7,505.5" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="673.9,210.2 252.7,505.5 676.5,212.2" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="673.9,210.2 676.5,212.2 673.1,207.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="246.6,502.4 91.5,609.8 95.6,610.8" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="246.6,502.4 95.6,610.8 248.4,505.0" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="251.0,503.3 248.4,505.0 250.1,507.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="251.0,503.3 250.1,507.3 252.7,505.5" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="94.9,614.8 95.6,610.8 91.5,609.8" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="248.4,505.0 95.6,610.8 94.9,614.8" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polygon points="248.4,505.0 94.9,614.8 250.1,507.3" fill="#bdbdbd" stroke="#bdbdbd" stroke-width="0.6"/>
+<polyline points="139.4,562.0 140.6,563.8 141.8,565.5 143.1,567.1 145.8,571.0 146.8,572.4 147.8,573.9" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="144.1,555.0 147.1,559.4 150.1,563.7 152.1,566.7 153.1,568.1 154.1,569.5" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="166.9,561.2 165.6,562.1 164.3,563.0 163.3,563.8 162.4,564.4 161.4,565.1" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="132.8,565.5 134.6,568.0 136.4,570.4 139.9,575.3 140.8,576.6 141.7,577.9" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="152.3,553.4 153.4,555.0 154.6,556.6 155.7,558.3 158.8,562.8 159.4,563.7 160.0,564.5" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="621.1,246.8 623.0,245.5 624.8,244.2 627.3,242.5 629.0,241.4 629.7,240.8 630.5,240.2" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="141.9,578.7 140.5,579.7 139.1,580.6 138.1,581.2 135.7,580.8 131.3,576.3 128.4,572.3 125.6,568.3" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="147.5,574.9 146.5,575.5 145.6,576.1 144.7,576.8 143.8,577.4 142.9,578.1" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="153.8,570.5 152.8,571.2 151.9,571.8 151.0,572.5 149.8,573.3 148.6,574.1" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="160.6,565.7 159.2,566.7 157.7,567.8 156.9,568.3 156.1,568.9 155.3,569.5" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="627.6,242.5 630.0,240.6 632.3,238.7 635.3,236.0 636.4,234.3 637.8,233.4 639.3,233.1 640.3,233.4 640.3,233.6 640.4,233.7" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="640.3,233.4 640.3,233.6 640.4,233.7 640.4,234.6 639.7,236.0 638.3,236.8 636.4,237.3 634.4,238.3 632.5,239.3 630.0,240.7 627.5,242.1" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
+<polyline points="93.5,612.1 674.5,209.9" fill="none" stroke="#000" stroke-width="7.1"/>
+<polygon points="92.1,606.9 89.6,608.8 87.5,606.0 89.9,604.1" fill="#000"/>
+<polygon points="89.5,627.3 87.4,624.4 90.7,621.9 92.8,624.8" fill="#000"/>
+<polygon points="78.9,613.1 76.8,610.2 80.1,607.8 82.2,610.6" fill="#000"/>
+<polygon points="64.5,628.7 68.7,634.6 64.6,637.5 60.4,631.6" fill="#000"/>
+<polygon points="108.6,653.1 106.2,649.2 109.3,647.4 111.6,651.3" fill="#000"/>
+<text x="78.7" y="622.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.3 78.7 622.3)" dominant-baseline="central">05</text>
+<text x="689.3" y="199.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-304.7 689.3 199.7)" dominant-baseline="central">23</text>
+<text x="146.7" y="558.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.5 146.7 558.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">04</text>
+<text x="153.1" y="554.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.5 153.1 554.5)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">05</text>
+<text x="134.2" y="567.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.0 134.2 567.5)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">02</text>
+<text x="140.3" y="563.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.0 140.3 563.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">03</text>
+<text x="128.1" y="571.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.2 128.1 571.8)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">01</text>
+<g stroke="#000" fill="none"><line x1="678" y1="702" x2="678" y2="654"/><polygon points="678,650 675,658 681,658" fill="#000"/></g><line x1="678" y1="702" x2="687.6" y2="657.0" stroke="#000"/><polygon points="688.4,653.1 684.6,658.4 690.5,659.6" fill="#000"/><text x="676.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="692.4" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="687.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 687.5 681.5)" >VAR 1.1° E (1999)</text>
+</g>
+<rect x="30" y="50" width="708" height="722" fill="none" stroke="#000" stroke-width="1.2"/>
+<rect x="30" y="780" width="708" height="50" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="330" y1="780" x2="330" y2="830" stroke="#000" stroke-width="0.6"/>
+<line x1="440" y1="780" x2="440" y2="830" stroke="#000" stroke-width="0.6"/>
+<line x1="530" y1="780" x2="530" y2="830" stroke="#000" stroke-width="0.6"/>
+<text x="80.0" y="798.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >Tower VHF</text><text x="80.0" y="818.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >118.000</text>
+<text x="180.0" y="798.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >Tower UHF</text><text x="180.0" y="818.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >256.050</text>
+<text x="280.0" y="798.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >VHF FM</text><text x="280.0" y="818.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >42.000</text>
+<text x="385.0" y="794.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000" >ARP</text><text x="385.0" y="810.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >51°15.969` N</text><text x="385.0" y="824.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000" >012°05.977` E</text>
+<text x="485.0" y="794.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000" >ELEV</text><text x="485.0" y="810.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >396 [ft]</text><text x="485.0" y="824.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >121 [m]</text>
+<text x="545.0" y="792.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >Scale 1:10&#x27;500</text>
+<line x1="555" y1="810" x2="661.7420671400805" y2="810" stroke="#000" stroke-width="0.8"/>
+<line x1="555.0" y1="807" x2="555.0" y2="810" stroke="#000" stroke-width="0.6"/><text x="555.0" y="804.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >0</text>
+<line x1="590.5806890466935" y1="807" x2="590.5806890466935" y2="810" stroke="#000" stroke-width="0.6"/><text x="590.6" y="804.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >100</text>
+<line x1="626.161378093387" y1="807" x2="626.161378093387" y2="810" stroke="#000" stroke-width="0.6"/><text x="626.2" y="804.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >200</text>
+<line x1="661.7420671400805" y1="807" x2="661.7420671400805" y2="810" stroke="#000" stroke-width="0.6"/><text x="661.7" y="804.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >300</text>
+<text x="669.7" y="808.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >[m]</text>
+<line x1="555" y1="814" x2="609.2249701071609" y2="814" stroke="#000" stroke-width="0.8"/>
+<line x1="555.0" y1="814" x2="555.0" y2="817" stroke="#000" stroke-width="0.6"/><text x="555.0" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >0</text>
+<line x1="609.2249701071609" y1="814" x2="609.2249701071609" y2="817" stroke="#000" stroke-width="0.6"/><text x="609.2" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >500</text>
+<text x="617.2" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text>
+<rect x="30" y="840" width="708" height="38" fill="none" stroke="#000" stroke-width="1"/>
+<text x="40.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP</text>
+<text x="170.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT</text>
+<text x="440.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >HELICOPTER</text>
+<line x1="160" y1="840" x2="160" y2="878" stroke="#000" stroke-width="0.6"/>
+<line x1="430" y1="840" x2="430" y2="878" stroke="#000" stroke-width="0.6"/>
+<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP</text>
+<text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 05</text>
+<text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 05</text>
+<text x="30.0" y="892.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
+<text x="30.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
+<text x="738.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="end" fill="#000" >ZOLLSCHEN (A9)</text>
+<text x="754.0" y="200.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#444" transform="rotate(90.0 754.0 200.0)" >Ground Chart for Digital Combat Simulator</text>
+<text x="754.0" y="860.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#444" transform="rotate(-90.0 754.0 860.0)" >generated from DCS terrain data - DCS GermanyColdWar</text>
+</svg>
