@@ -13,12 +13,12 @@
 | 07 | EDAD | Dessau | 2 | [P1](png/07_GND_EDAD_Dessau_P1.png) [P2](png/07_PAR_EDAD_Dessau_P2.png) |
 | 08 | EDAH | Garz – Heringsdorf | 3 | [P1](png/08_GND_EDAH_Garz%20-%20Heringsdorf_P1.png) [P2](png/08_PAR_EDAH_Garz%20-%20Heringsdorf_P2.png) [P3](png/08_PAR_EDAH_Garz%20-%20Heringsdorf_P3.png) |
 | 09 | EDAM | Merseburg | 2 | [P1](png/09_GND_EDAM_Merseburg_P1.png) [P2](png/09_PAR_EDAM_Merseburg_P2.png) |
-| 10 | EDAV | Finow – Eberswalde-Finow | 4 | [P1](png/10_GND_EDAV_Finow%20-%20Eberswalde-Finow_P1.png) [P2](png/10_PAR_EDAV_Finow%20-%20Eberswalde-Finow_P2.png) [P3](png/10_PAR_EDAV_Finow%20-%20Eberswalde-Finow_P3.png) [P4](png/10_PAR_EDAV_Finow%20-%20Eberswalde-Finow_P4.png) |
-| 11 | EDAX | Larz – Muritz Airpark | 4 | [P1](png/11_GND_EDAX_Larz%20-%20Muritz%20Airpark_P1.png) [P2](png/11_PAR_EDAX_Larz%20-%20Muritz%20Airpark_P2.png) [P3](png/11_PAR_EDAX_Larz%20-%20Muritz%20Airpark_P3.png) [P4](png/11_PAR_EDAX_Larz%20-%20Muritz%20Airpark_P4.png) |
+| 10 | EDAV | Finow – Eberswalde-Finow | 3 | [P1](png/10_GND_EDAV_Finow%20-%20Eberswalde-Finow_P1.png) [P2](png/10_PAR_EDAV_Finow%20-%20Eberswalde-Finow_P2.png) [P3](png/10_PAR_EDAV_Finow%20-%20Eberswalde-Finow_P3.png) |
+| 11 | EDAX | Larz – Muritz Airpark | 3 | [P1](png/11_GND_EDAX_Larz%20-%20Muritz%20Airpark_P1.png) [P2](png/11_PAR_EDAX_Larz%20-%20Muritz%20Airpark_P2.png) [P3](png/11_PAR_EDAX_Larz%20-%20Muritz%20Airpark_P3.png) |
 | 12 | EDBC | Cochstedt – Magdeburg-Cochstedt | 4 | [P1](png/12_GND_EDBC_Cochstedt%20-%20Magdeburg-Cochstedt_P1.png) [P2](png/12_PAR_EDBC_Cochstedt%20-%20Magdeburg-Cochstedt_P2.png) [P3](png/12_PAR_EDBC_Cochstedt%20-%20Magdeburg-Cochstedt_P3.png) [P4](png/12_PAR_EDBC_Cochstedt%20-%20Magdeburg-Cochstedt_P4.png) |
 | 13 | EDBG | Gatow | 2 | [P1](png/13_GND_EDBG_Gatow_P1.png) [P2](png/13_PAR_EDBG_Gatow_P2.png) |
 | 14 | EDBH | Barth | 2 | [P1](png/14_GND_EDBH_Barth_P1.png) [P2](png/14_PAR_EDBH_Barth_P2.png) |
-| 15 | EDBT | Allstedt | 4 | [P1](png/15_GND_EDBT_Allstedt_P1.png) [P2](png/15_PAR_EDBT_Allstedt_P2.png) [P3](png/15_PAR_EDBT_Allstedt_P3.png) [P4](png/15_PAR_EDBT_Allstedt_P4.png) |
+| 15 | EDBT | Allstedt | 3 | [P1](png/15_GND_EDBT_Allstedt_P1.png) [P2](png/15_PAR_EDBT_Allstedt_P2.png) [P3](png/15_PAR_EDBT_Allstedt_P3.png) |
 | 16 | EDBW | Werneuchen | 3 | [P1](png/16_GND_EDBW_Werneuchen_P1.png) [P2](png/16_PAR_EDBW_Werneuchen_P2.png) [P3](png/16_PAR_EDBW_Werneuchen_P3.png) |
 | 17 | EDCK | Kothen | 3 | [P1](png/17_GND_EDCK_Kothen_P1.png) [P2](png/17_PAR_EDCK_Kothen_P2.png) [P3](png/17_PAR_EDCK_Kothen_P3.png) |
 | 18 | EDCO | Obermehler Schlotheim | 2 | [P1](png/18_GND_EDCO_Obermehler%20Schlotheim_P1.png) [P2](png/18_PAR_EDCO_Obermehler%20Schlotheim_P2.png) |
@@ -28,7 +28,7 @@
 | 22 | EDDF | Frankfurt | 3 | [P1](png/22_GND_EDDF_Frankfurt_P1.png) [P2](png/22_PAR_EDDF_Frankfurt_P2.png) [P3](png/22_PAR_EDDF_Frankfurt_P3.png) |
 | 23 | EDDH | Hamburg | 3 | [P1](png/23_GND_EDDH_Hamburg_P1.png) [P2](png/23_PAR_EDDH_Hamburg_P2.png) [P3](png/23_PAR_EDDH_Hamburg_P3.png) |
 | 24 | EDDI | Tempelhof | 2 | [P1](png/24_GND_EDDI_Tempelhof_P1.png) [P2](png/24_PAR_EDDI_Tempelhof_P2.png) |
-| 25 | EDDK | Cologne – Koln/Bonn | 4 | [P1](png/25_GND_EDDK_Cologne%20-%20Koln-Bonn_P1.png) [P2](png/25_PAR_EDDK_Cologne%20-%20Koln-Bonn_P2.png) [P3](png/25_PAR_EDDK_Cologne%20-%20Koln-Bonn_P3.png) [P4](png/25_PAR_EDDK_Cologne%20-%20Koln-Bonn_P4.png) |
+| 25 | EDDK | Cologne – Koln/Bonn | 3 | [P1](png/25_GND_EDDK_Cologne%20-%20Koln-Bonn_P1.png) [P2](png/25_GND_EDDK_Cologne%20-%20Koln-Bonn_P2.png) [P3](png/25_PAR_EDDK_Cologne%20-%20Koln-Bonn_P3.png) |
 | 26 | EDDL | Dusseldorf | 3 | [P1](png/26_GND_EDDL_Dusseldorf_P1.png) [P2](png/26_PAR_EDDL_Dusseldorf_P2.png) [P3](png/26_PAR_EDDL_Dusseldorf_P3.png) |
 | 27 | EDDP | Schkeuditz – Leipzig/Halle | 2 | [P1](png/27_GND_EDDP_Schkeuditz%20-%20Leipzig-Halle_P1.png) [P2](png/27_PAR_EDDP_Schkeuditz%20-%20Leipzig-Halle_P2.png) |
 | 28 | EDDT | Tegel | 2 | [P1](png/28_GND_EDDT_Tegel_P1.png) [P2](png/28_PAR_EDDT_Tegel_P2.png) |
@@ -42,7 +42,7 @@
 | 36 | EDOP | Parchim | 3 | [P1](png/36_GND_EDOP_Parchim_P1.png) [P2](png/36_PAR_EDOP_Parchim_P2.png) [P3](png/36_PAR_EDOP_Parchim_P3.png) |
 | 37 | EDOV | Stendal | 2 | [P1](png/37_GND_EDOV_Stendal_P1.png) [P2](png/37_PAR_EDOV_Stendal_P2.png) |
 | 38 | EDQG | Giebelstadt | 2 | [P1](png/38_GND_EDQG_Giebelstadt_P1.png) [P2](png/38_PAR_EDQG_Giebelstadt_P2.png) |
-| 39 | EDRB | Bitburg | 4 | [P1](png/39_GND_EDRB_Bitburg_P1.png) [P2](png/39_PAR_EDRB_Bitburg_P2.png) [P3](png/39_PAR_EDRB_Bitburg_P3.png) [P4](png/39_PAR_EDRB_Bitburg_P4.png) |
+| 39 | EDRB | Bitburg | 3 | [P1](png/39_GND_EDRB_Bitburg_P1.png) [P2](png/39_PAR_EDRB_Bitburg_P2.png) [P3](png/39_PAR_EDRB_Bitburg_P3.png) |
 | 40 | EDRE | Mendig | 2 | [P1](png/40_GND_EDRE_Mendig_P1.png) [P2](png/40_PAR_EDRE_Mendig_P2.png) |
 | 41 | EDRZ | Zweibrucken | 2 | [P1](png/41_GND_EDRZ_Zweibrucken_P1.png) [P2](png/41_PAR_EDRZ_Zweibrucken_P2.png) |
 | 42 | EDUB | Briest – Brandenburg-Briest | 2 | [P1](png/42_GND_EDUB_Briest%20-%20Brandenburg-Briest_P1.png) [P2](png/42_PAR_EDUB_Briest%20-%20Brandenburg-Briest_P2.png) |
@@ -68,17 +68,17 @@
 | 62 | ETNN | Norvenich | 4 | [P1](png/62_GND_ETNN_Norvenich_P1.png) [P2](png/62_PAR_ETNN_Norvenich_P2.png) [P3](png/62_PAR_ETNN_Norvenich_P3.png) [P4](png/62_PAR_ETNN_Norvenich_P4.png) |
 | 63 | ETNU | Neubrandenburg | 2 | [P1](png/63_GND_ETNU_Neubrandenburg_P1.png) [P2](png/63_PAR_ETNU_Neubrandenburg_P2.png) |
 | 64 | ETNW | Wunstorf | 2 | [P1](png/64_GND_ETNW_Wunstorf_P1.png) [P2](png/64_PAR_ETNW_Wunstorf_P2.png) |
-| 65 | ETOU | Wiesbaden | 4 | [P1](png/65_GND_ETOU_Wiesbaden_P1.png) [P2](png/65_PAR_ETOU_Wiesbaden_P2.png) [P3](png/65_PAR_ETOU_Wiesbaden_P3.png) [P4](png/65_PAR_ETOU_Wiesbaden_P4.png) |
+| 65 | ETOU | Wiesbaden | 3 | [P1](png/65_GND_ETOU_Wiesbaden_P1.png) [P2](png/65_PAR_ETOU_Wiesbaden_P2.png) [P3](png/65_PAR_ETOU_Wiesbaden_P3.png) |
 | 66 | ETSB | Buchel | 2 | [P1](png/66_GND_ETSB_Buchel_P1.png) [P2](png/66_PAR_ETSB_Buchel_P2.png) |
 | 67 | ETSH | Holzdorf | 4 | [P1](png/67_GND_ETSH_Holzdorf_P1.png) [P2](png/67_PAR_ETSH_Holzdorf_P2.png) [P3](png/67_PAR_ETSH_Holzdorf_P3.png) [P4](png/67_PAR_ETSH_Holzdorf_P4.png) |
 | 68 | ETSP | Pferdsfeld | 2 | [P1](png/68_GND_ETSP_Pferdsfeld_P1.png) [P2](png/68_PAR_ETSP_Pferdsfeld_P2.png) |
-| 69 | ETUO | Gutersloh | 4 | [P1](png/69_GND_ETUO_Gutersloh_P1.png) [P2](png/69_PAR_ETUO_Gutersloh_P2.png) [P3](png/69_PAR_ETUO_Gutersloh_P3.png) [P4](png/69_PAR_ETUO_Gutersloh_P4.png) |
+| 69 | ETUO | Gutersloh | 3 | [P1](png/69_GND_ETUO_Gutersloh_P1.png) [P2](png/69_PAR_ETUO_Gutersloh_P2.png) [P3](png/69_PAR_ETUO_Gutersloh_P3.png) |
 | 70 | RV13 | Tagra | 2 | [P1](png/70_GND_RV13_Tagra_P1.png) [P2](png/70_PAR_RV13_Tagra_P2.png) |
 | 71 | XEAL | Altes Lager – Juterbog | 3 | [P1](png/71_GND_XEAL_Altes%20Lager%20-%20Juterbog_P1.png) [P2](png/71_PAR_XEAL_Altes%20Lager%20-%20Juterbog_P2.png) [P3](png/71_PAR_XEAL_Altes%20Lager%20-%20Juterbog_P3.png) |
 | 72 | XEBR | Brand – Brand-Briesen | 3 | [P1](png/72_GND_XEBR_Brand%20-%20Brand-Briesen_P1.png) [P2](png/72_PAR_XEBR_Brand%20-%20Brand-Briesen_P2.png) [P3](png/72_PAR_XEBR_Brand%20-%20Brand-Briesen_P3.png) |
 | 73 | XEBS | Brandis – Brandis-Waldpolenz | 2 | [P1](png/73_GND_XEBS_Brandis%20-%20Brandis-Waldpolenz_P1.png) [P2](png/73_PAR_XEBS_Brandis%20-%20Brandis-Waldpolenz_P2.png) |
-| 74 | XECJ | Chojna | 4 | [P1](png/74_GND_XECJ_Chojna_P1.png) [P2](png/74_PAR_XECJ_Chojna_P2.png) [P3](png/74_PAR_XECJ_Chojna_P3.png) [P4](png/74_PAR_XECJ_Chojna_P4.png) |
-| 75 | XEDG | Damgarten – Putnitz | 2 | [P1](png/75_GND_XEDG_Damgarten%20-%20Putnitz_P1.png) [P2](png/75_PAR_XEDG_Damgarten%20-%20Putnitz_P2.png) |
+| 74 | XECJ | Chojna | 3 | [P1](png/74_GND_XECJ_Chojna_P1.png) [P2](png/74_PAR_XECJ_Chojna_P2.png) [P3](png/74_PAR_XECJ_Chojna_P3.png) |
+| 75 | XEDG | Damgarten – Putnitz | 3 | [P1](png/75_GND_XEDG_Damgarten%20-%20Putnitz_P1.png) [P2](png/75_PAR_XEDG_Damgarten%20-%20Putnitz_P2.png) [P3](png/75_PAR_XEDG_Damgarten%20-%20Putnitz_P3.png) |
 | 76 | XEGM | Gross Mohrdorf | 2 | [P1](png/76_GND_XEGM_Gross%20Mohrdorf_P1.png) [P2](png/76_PAR_XEGM_Gross%20Mohrdorf_P2.png) |
 | 77 | XEHA | Haina | 2 | [P1](png/77_GND_XEHA_Haina_P1.png) [P2](png/77_PAR_XEHA_Haina_P2.png) |
 | 78 | XELM | Leipzig Mockau | 2 | [P1](png/78_GND_XELM_Leipzig%20Mockau_P1.png) [P2](png/78_PAR_XELM_Leipzig%20Mockau_P2.png) |

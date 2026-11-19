@@ -4147,9 +4147,6 @@
 <polygon points="373.7,232.8 380.8,219.1 386.4,222.0 379.3,235.7" fill="#000"/>
 <polygon points="644.6,401.6 639.7,409.8 626.8,401.9 631.7,393.8" fill="#000"/>
 <polygon points="646.0,470.0 650.8,461.7 663.8,469.3 659.0,477.6" fill="#000"/>
-<polygon points="566.1,539.7 573.3,528.1 579.9,532.2 572.7,543.7" fill="#000"/>
-<polygon points="544.6,526.8 551.8,515.2 558.4,519.3 551.2,530.9" fill="#000"/>
-<polygon points="555.0,533.0 562.2,521.4 568.7,525.5 561.6,537.1" fill="#000"/>
 <polygon points="308.1,148.7 319.1,130.1 327.5,135.0 316.5,153.7" fill="#000"/>
 <polygon points="549.6,397.4 545.5,418.7 535.9,416.8 540.1,395.6" fill="#000"/>
 <polygon points="543.4,432.1 539.2,453.4 529.7,451.5 533.8,430.2" fill="#000"/>
@@ -4169,7 +4166,6 @@
 <polygon points="323.4,212.2 324.9,209.3 333.6,214.0 332.1,216.8" fill="#000"/>
 <polygon points="387.0,239.0 387.8,235.9 397.3,238.4 396.5,241.5" fill="#000"/>
 <polygon points="483.0,293.0 480.2,291.3 485.2,282.8 488.0,284.4" fill="#000"/>
-<polygon points="588.0,422.9 585.0,425.8 580.6,421.1 583.6,418.2" fill="#000"/>
 <polygon points="286.7,173.4 293.6,174.0 292.7,183.7 285.8,183.1" fill="#000"/>
 <polygon points="675.7,449.6 673.8,456.2 664.5,453.5 666.4,446.8" fill="#000"/>
 <polygon points="258.4,143.4 255.2,149.5 246.6,145.0 249.9,138.8" fill="#000"/>
@@ -4187,11 +4183,6 @@
 <polygon points="589.5,193.9 600.0,199.1 595.4,208.3 585.0,203.0" fill="#000"/>
 <polygon points="575.2,199.8 580.4,189.3 589.5,193.9 584.3,204.4" fill="#000"/>
 <polygon points="176.4,207.5 172.9,208.7 171.3,203.9 174.8,202.7" fill="#000"/>
-<polygon points="607.9,265.7 604.7,260.7 608.5,258.2 611.7,263.2" fill="#000"/>
-<polygon points="453.5,232.2 450.6,237.4 446.7,235.1 449.6,230.0" fill="#000"/>
-<polygon points="503.0,215.3 505.8,210.1 509.8,212.2 507.0,217.4" fill="#000"/>
-<polygon points="340.6,108.8 343.4,103.6 347.4,105.8 344.6,111.0" fill="#000"/>
-<polygon points="483.4,198.8 488.6,201.6 486.5,205.6 481.3,202.9" fill="#000"/>
 <polygon points="659.4,395.1 632.5,379.2 638.3,369.2 665.2,385.1" fill="#000"/>
 <polygon points="540.7,373.0 545.2,368.8 554.1,378.3 549.7,382.5" fill="#000"/>
 <rect x="488.6" y="415.3" width="4" height="4" fill="#555"/>
@@ -4245,7 +4236,7 @@
 <text x="270.1" y="200.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">☆</text>
 <text x="252.1" y="216.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">TWR</text>
 <text x="151.9" y="537.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">NDB FTZ 468</text>
-<text x="422.7" y="274.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">Hangars</text>
+<text x="455.6" y="233.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">Hangars</text>
 <text x="370.0" y="360.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#000" >ELEV</text><text x="370.0" y="373.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >552</text><text x="384.0" y="373.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text><text x="370.0" y="386.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >168</text><text x="380.0" y="386.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[m]</text>
 <rect x="428" y="60" width="300" height="128" fill="#fff" stroke="#999"/>
 <text x="438.0" y="78.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="start" fill="#000" >Coordinates:</text>

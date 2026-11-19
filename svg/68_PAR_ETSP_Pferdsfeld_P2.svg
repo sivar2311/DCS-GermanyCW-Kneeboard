@@ -7870,8 +7870,6 @@
 <polygon points="258.2,312.0 255.4,310.8 257.1,306.9 259.9,308.1" fill="#000"/>
 <polygon points="219.0,318.8 216.6,321.5 214.7,319.7 217.1,317.0" fill="#000"/>
 <polygon points="215.8,322.5 213.4,325.2 211.5,323.4 213.9,320.7" fill="#000"/>
-<polygon points="325.2,402.6 325.4,400.2 328.2,400.5 327.9,402.9" fill="#000"/>
-<polygon points="363.2,449.7 363.4,448.3 366.2,448.7 366.0,450.1" fill="#000"/>
 <polygon points="220.9,429.6 220.7,431.2 218.5,431.0 218.7,429.3" fill="#000"/>
 <polygon points="428.4,421.2 428.2,422.6 423.9,422.2 424.1,420.8" fill="#000"/>
 <polygon points="487.2,415.7 486.3,416.8 483.0,414.1 483.9,413.0" fill="#000"/>
@@ -7960,8 +7958,6 @@
 <text x="275.8" y="368.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-28.5 275.8 368.6)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">20</text>
 <text x="187.8" y="365.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-67.4 187.8 365.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">05</text>
 <text x="552.6" y="407.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(49.9 552.6 407.1)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">59</text>
-<text x="530.0" y="462.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP EAST</text>
-<text x="297.0" y="446.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP WEST</text>
 <text x="381.9" y="409.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">☆</text>
 <text x="349.9" y="418.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">TWR</text>
 <g stroke="#000" fill="none"><line x1="90" y1="702" x2="90" y2="654"/><polygon points="90,650 87,658 93,658" fill="#000"/></g><line x1="90" y1="702" x2="80.4" y2="657.0" stroke="#000"/><polygon points="79.6,653.1 77.5,659.6 83.4,658.4" fill="#000"/><text x="92.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >TN</text><text x="75.6" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >MN</text><text x="80.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-102.0 80.5 681.5)" >VAR 0.3° W (1999)</text>
@@ -7993,12 +7989,11 @@
 <text x="440.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >HELICOPTER</text>
 <line x1="160" y1="840" x2="160" y2="890" stroke="#000" stroke-width="0.6"/>
 <line x1="430" y1="840" x2="430" y2="890" stroke="#000" stroke-width="0.6"/>
-<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP EAST</text>
-<text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >41 - 67</text>
-<text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >43, 46, 48 - 51, 56, 60 - 61, 63, 66 - 67</text>
-<text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP WEST</text>
-<text x="170.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 22, 24 - 35, 37 - 39, 68 - 70</text>
-<text x="440.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01, 12 - 14, 19, 22 - 26, 29 - 32, 35 - 40, 71 - 74</text>
+<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP</text>
+<text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 22, 24 - 35, 37 - 39, 41 - 70</text>
+<text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01, 12 - 14, 19, 22 - 26, 29 - 32, 35 - 40, 43, 46,</text>
+<text x="440.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >48 - 51, 56, 60 - 61, 63, 66 - 67, 71 - 74</text>
+<line x1="30" y1="886.0" x2="738" y2="886.0" stroke="#ccc" stroke-width="0.4"/>
 <text x="30.0" y="904.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
 <text x="30.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
 <text x="738.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="end" fill="#000" >PFERDSFELD (ETSP)</text>

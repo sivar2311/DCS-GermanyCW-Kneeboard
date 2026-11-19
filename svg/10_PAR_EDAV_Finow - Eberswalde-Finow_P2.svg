@@ -2,7 +2,7 @@
 <rect width="768" height="1024" fill="#fff"/>
 
 <text x="30.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
-<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 10 · P2/4</text>
+<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 10 · P2/3</text>
 <text x="738.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#000" >FINOW - EBERSWALDE-FINOW (EDAV)</text>
 <clipPath id="mc"><rect x="30" y="50" width="708" height="722"/></clipPath>
 <g clip-path="url(#mc)">
@@ -4771,7 +4771,7 @@
 <text x="65.0" y="330.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-74.2 65.0 330.5)" dominant-baseline="central">10</text>
 <text x="540.6" y="606.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(88.5 540.6 606.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">106</text>
 <circle cx="175.8" cy="314.8" r="1.8" fill="#333"/>
-<text x="75.7" y="256.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-44.8 75.7 256.5)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">03</text>
+<circle cx="75.7" cy="256.5" r="1.8" fill="#333"/>
 <circle cx="611.8" cy="438.0" r="1.8" fill="#333"/>
 <text x="450.2" y="556.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-50.1 450.2 556.1)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">114</text>
 <circle cx="600.0" cy="435.1" r="1.8" fill="#333"/>
@@ -4780,7 +4780,7 @@
 <text x="425.4" y="523.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-77.2 425.4 523.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">115</text>
 <circle cx="298.9" cy="328.0" r="1.8" fill="#333"/>
 <circle cx="363.0" cy="341.4" r="1.8" fill="#333"/>
-<text x="98.1" y="253.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-40.0 98.1 253.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">05</text>
+<circle cx="98.1" cy="253.7" r="1.8" fill="#333"/>
 <circle cx="557.1" cy="421.9" r="1.8" fill="#333"/>
 <circle cx="219.1" cy="326.5" r="1.8" fill="#333"/>
 <text x="512.7" y="532.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(61.2 512.7 532.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">124</text>
@@ -4790,16 +4790,16 @@
 <text x="523.1" y="526.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(60.3 523.1 526.3)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">126</text>
 <circle cx="517.8" cy="411.2" r="1.8" fill="#333"/>
 <text x="476.1" y="577.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-51.2 476.1 577.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">113</text>
-<text x="126.3" y="217.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-28.8 126.3 217.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">07</text>
+<circle cx="126.3" cy="217.2" r="1.8" fill="#333"/>
 <circle cx="261.9" cy="314.7" r="1.8" fill="#333"/>
 <text x="543.6" y="514.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(61.2 543.6 514.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">130</text>
 <circle cx="580.5" cy="429.3" r="1.8" fill="#333"/>
 <circle cx="592.2" cy="432.6" r="1.8" fill="#333"/>
-<text x="156.4" y="256.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.4 156.4 256.6)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">13</text>
+<circle cx="156.4" cy="256.6" r="1.8" fill="#333"/>
 <text x="567.1" y="572.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(37.9 567.1 572.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">103</text>
 <circle cx="443.3" cy="390.3" r="1.8" fill="#333"/>
-<text x="120.8" y="261.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-79.1 120.8 261.8)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">10</text>
-<text x="122.2" y="231.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-10.3 122.2 231.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">08</text>
+<circle cx="120.8" cy="261.8" r="1.8" fill="#333"/>
+<circle cx="122.2" cy="231.9" r="1.8" fill="#333"/>
 <circle cx="427.6" cy="385.9" r="1.8" fill="#333"/>
 <circle cx="568.8" cy="425.8" r="1.8" fill="#333"/>
 <circle cx="486.4" cy="402.4" r="1.8" fill="#333"/>
@@ -4825,14 +4825,14 @@
 <text x="519.6" y="583.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-54.1 519.6 583.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">109</text>
 <circle cx="529.7" cy="414.5" r="1.8" fill="#333"/>
 <circle cx="447.2" cy="391.3" r="1.8" fill="#333"/>
-<text x="85.4" y="266.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-29.5 85.4 266.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">02</text>
+<circle cx="85.4" cy="266.4" r="1.8" fill="#333"/>
 <circle cx="676.3" cy="427.6" r="1.8" fill="#333"/>
 <circle cx="275.9" cy="305.2" r="1.8" fill="#333"/>
 <circle cx="537.5" cy="416.6" r="1.8" fill="#333"/>
 <text x="487.5" y="546.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(61.3 487.5 546.0)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">119</text>
 <text x="502.6" y="537.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(61.3 502.6 537.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">122</text>
 <circle cx="521.8" cy="412.3" r="1.8" fill="#333"/>
-<text x="148.3" y="262.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.4 148.3 262.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">12</text>
+<circle cx="148.3" cy="262.2" r="1.8" fill="#333"/>
 <text x="518.0" y="529.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(60.3 518.0 529.2)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">125</text>
 <text x="572.6" y="565.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(16.9 572.6 565.6)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">100</text>
 <circle cx="215.2" cy="325.1" r="1.8" fill="#333"/>
@@ -4854,7 +4854,7 @@
 <circle cx="398.2" cy="340.8" r="1.8" fill="#333"/>
 <circle cx="179.7" cy="316.0" r="1.8" fill="#333"/>
 <text x="486.5" y="586.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-51.2 486.5 586.1)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">111</text>
-<text x="124.4" y="244.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-10.3 124.4 244.3)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">09</text>
+<circle cx="124.4" cy="244.3" r="1.8" fill="#333"/>
 <circle cx="584.3" cy="430.5" r="1.8" fill="#333"/>
 <circle cx="541.3" cy="418.1" r="1.8" fill="#333"/>
 <circle cx="363.3" cy="329.6" r="1.8" fill="#333"/>
@@ -4872,12 +4872,12 @@
 <text x="553.3" y="508.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(54.6 553.3 508.8)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">132</text>
 <circle cx="289.9" cy="309.3" r="1.8" fill="#333"/>
 <circle cx="665.9" cy="441.8" r="1.8" fill="#333"/>
-<text x="90.0" y="274.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-29.5 90.0 274.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">01</text>
+<circle cx="90.0" cy="274.4" r="1.8" fill="#333"/>
 <circle cx="564.7" cy="425.0" r="1.8" fill="#333"/>
 <circle cx="285.5" cy="325.0" r="1.8" fill="#333"/>
 <circle cx="654.1" cy="439.7" r="1.8" fill="#333"/>
 <circle cx="615.6" cy="439.6" r="1.8" fill="#333"/>
-<text x="131.5" y="263.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-79.1 131.5 263.8)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">11</text>
+<circle cx="131.5" cy="263.8" r="1.8" fill="#333"/>
 <circle cx="195.5" cy="319.9" r="1.8" fill="#333"/>
 <text x="430.3" y="506.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-74.2 430.3 506.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">116</text>
 <circle cx="490.5" cy="403.1" r="1.8" fill="#333"/>
@@ -4890,13 +4890,13 @@
 <circle cx="588.3" cy="431.2" r="1.8" fill="#333"/>
 <circle cx="525.6" cy="413.5" r="1.8" fill="#333"/>
 <circle cx="380.3" cy="335.8" r="1.8" fill="#333"/>
-<text x="89.4" y="243.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-40.0 89.4 243.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">04</text>
+<circle cx="89.4" cy="243.4" r="1.8" fill="#333"/>
 <text x="495.5" y="565.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-50.7 495.5 565.0)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">112</text>
 <circle cx="482.4" cy="401.6" r="1.8" fill="#333"/>
 <circle cx="603.8" cy="436.3" r="1.8" fill="#333"/>
 <circle cx="467.1" cy="396.1" r="1.8" fill="#333"/>
 <circle cx="659.8" cy="416.9" r="1.8" fill="#333"/>
-<text x="120.1" y="206.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-28.8 120.1 206.0)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">06</text>
+<circle cx="120.1" cy="206.0" r="1.8" fill="#333"/>
 <text x="531.8" y="543.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(63.1 531.8 543.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">98</text>
 <circle cx="183.6" cy="317.1" r="1.8" fill="#333"/>
 <circle cx="211.4" cy="323.6" r="1.8" fill="#333"/>
@@ -4904,10 +4904,8 @@
 <circle cx="510.0" cy="409.0" r="1.8" fill="#333"/>
 <circle cx="514.0" cy="409.9" r="1.8" fill="#333"/>
 <circle cx="607.9" cy="437.2" r="1.8" fill="#333"/>
-<text x="496.1" y="491.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP SOUTH-EAST</text>
-<text x="211.1" y="276.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH-WEST 2</text><text x="211.1" y="289.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P4</text>
-<text x="90.8" y="191.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH-WEST 1</text>
-<text x="477.3" y="365.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP EAST</text><text x="477.3" y="378.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P3</text>
+<text x="502.2" y="506.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP SOUTH</text>
+<text x="438.1" y="346.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH</text><text x="438.1" y="359.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P3</text>
 <g stroke="#000" fill="none"><line x1="90" y1="702" x2="90" y2="654"/><polygon points="90,650 87,658 93,658" fill="#000"/></g><line x1="90" y1="702" x2="99.6" y2="657.0" stroke="#000"/><polygon points="100.4,653.1 96.6,658.4 102.5,659.6" fill="#000"/><text x="88.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="104.4" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="99.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 99.5 681.5)" >VAR 1.6° E (1999)</text>
 </g>
 <rect x="30" y="50" width="708" height="722" fill="none" stroke="#000" stroke-width="1.2"/>
@@ -4931,30 +4929,22 @@
 <line x1="555.0" y1="814" x2="555.0" y2="817" stroke="#000" stroke-width="0.6"/><text x="555.0" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >0</text>
 <line x1="588.0763081477771" y1="814" x2="588.0763081477771" y2="817" stroke="#000" stroke-width="0.6"/><text x="588.1" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >500</text>
 <text x="596.1" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text>
-<rect x="30" y="840" width="708" height="74" fill="none" stroke="#000" stroke-width="1"/>
+<rect x="30" y="840" width="708" height="50" fill="none" stroke="#000" stroke-width="1"/>
 <text x="40.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP</text>
 <text x="170.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT</text>
 <text x="440.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >HELICOPTER</text>
 <text x="726.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="end" fill="#000" >SHEET</text>
-<line x1="160" y1="840" x2="160" y2="914" stroke="#000" stroke-width="0.6"/>
-<line x1="430" y1="840" x2="430" y2="914" stroke="#000" stroke-width="0.6"/>
-<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP SOUTH-EAST</text>
+<line x1="160" y1="840" x2="160" y2="890" stroke="#000" stroke-width="0.6"/>
+<line x1="430" y1="840" x2="430" y2="890" stroke="#000" stroke-width="0.6"/>
+<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP SOUTH</text>
 <text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >99 - 118, 132 - 134</text>
 <text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >97 - 98, 100, 105, 119 - 134</text>
 <text x="726.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P2</text>
-<text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH-WEST 2</text>
-<text x="170.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >14 - 27</text>
-<text x="440.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >14 - 27</text>
-<text x="726.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P4</text>
-<text x="40.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH-WEST 1</text>
-<text x="170.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 13</text>
-<text x="440.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >–</text>
-<text x="726.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P2</text>
-<text x="40.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP EAST</text>
-<text x="170.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >28 - 96</text>
-<text x="440.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >43 - 91</text>
-<text x="726.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P3</text>
-<text x="30.0" y="928.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
+<text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH</text>
+<text x="170.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 96</text>
+<text x="440.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >14 - 27, 43 - 91</text>
+<text x="726.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P3</text>
+<text x="30.0" y="904.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
 <text x="30.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
 <text x="738.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="end" fill="#000" >FINOW - EBERSWALDE-FINOW (EDAV)</text>
 <text x="754.0" y="200.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#444" transform="rotate(90.0 754.0 200.0)" >Ground Chart for Digital Combat Simulator</text>

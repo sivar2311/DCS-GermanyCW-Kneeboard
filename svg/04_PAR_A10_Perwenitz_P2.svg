@@ -691,8 +691,6 @@
 <polygon points="456.2,215.6 457.6,215.7 457.0,219.9 455.7,219.7" fill="#000"/>
 <polygon points="304.2,623.9 302.8,623.6 303.7,619.5 305.1,619.8" fill="#000"/>
 <polygon points="440.2,119.5 439.6,122.2 436.9,121.6 437.5,118.9" fill="#000"/>
-<polygon points="317.2,731.0 313.5,729.7 314.4,727.1 318.1,728.4" fill="#000"/>
-<polygon points="452.7,94.2 448.8,93.5 449.3,90.8 453.2,91.5" fill="#000"/>
 <text x="314.1" y="739.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(12.0 314.1 739.1)" dominant-baseline="central">01</text>
 <text x="453.9" y="82.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-348.0 453.9 82.9)" dominant-baseline="central">19</text>
 <circle cx="314.8" cy="610.7" r="1.8" fill="#333"/>
@@ -706,10 +704,10 @@
 <circle cx="449.8" cy="218.5" r="1.8" fill="#333"/>
 <circle cx="452.3" cy="206.7" r="1.8" fill="#333"/>
 <g stroke="#000" fill="none"><line x1="130" y1="702" x2="130" y2="654"/><polygon points="130,650 127,658 133,658" fill="#000"/></g><line x1="130" y1="702" x2="139.6" y2="657.0" stroke="#000"/><polygon points="140.4,653.1 136.6,658.4 142.5,659.6" fill="#000"/><text x="128.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="144.4" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="139.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 139.5 681.5)" >VAR 1.4° E (1999)</text>
-<clipPath id="in40133"><rect x="468" y="118" width="192.8" height="286.9"/></clipPath>
+<clipPath id="in12198"><rect x="468" y="118" width="192.8" height="286.9"/></clipPath>
 <rect x="437.8" y="188.3" width="27.1" height="42.1" fill="none" stroke="#000" stroke-width="0.7" stroke-dasharray="2,1.5"/>
 <line x1="451.4" y1="209.4" x2="564.4" y2="261.4" stroke="#000" stroke-width="0.5" stroke-dasharray="2,1.5"/>
-<g clip-path="url(#in40133)"><rect x="468" y="118" width="192.8" height="286.9" fill="#fff"/>
+<g clip-path="url(#in12198)"><rect x="468" y="118" width="192.8" height="286.9" fill="#fff"/>
 <g transform="translate(-2144.0 -988.1) scale(6.000)">
 <defs><marker id="ah" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#000"/></marker></defs>
 <rect x="30" y="50" width="708" height="722" fill="#fff"/>
@@ -1339,8 +1337,6 @@
 <polygon points="456.2,215.6 457.6,215.7 457.0,219.9 455.7,219.7" fill="#000"/>
 <polygon points="304.2,623.9 302.8,623.6 303.7,619.5 305.1,619.8" fill="#000"/>
 <polygon points="440.2,119.5 439.6,122.2 436.9,121.6 437.5,118.9" fill="#000"/>
-<polygon points="317.2,731.0 313.5,729.7 314.4,727.1 318.1,728.4" fill="#000"/>
-<polygon points="452.7,94.2 448.8,93.5 449.3,90.8 453.2,91.5" fill="#000"/>
 </g>
 <text x="573.8" y="216.6" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">10</text>
 <text x="560.2" y="302.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">07</text>
@@ -1350,10 +1346,10 @@
 </g>
 <rect x="468" y="118" width="192.8" height="286.9" fill="none" stroke="#000" stroke-width="1"/>
 <text x="474.0" y="132.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP NORTH</text>
-<clipPath id="in20932"><rect x="98" y="428" width="191.9" height="274.3"/></clipPath>
+<clipPath id="in85612"><rect x="98" y="428" width="191.9" height="274.3"/></clipPath>
 <rect x="300.5" y="594.8" width="27.0" height="40.0" fill="none" stroke="#000" stroke-width="0.7" stroke-dasharray="2,1.5"/>
 <line x1="314.0" y1="614.8" x2="193.9" y2="565.1" stroke="#000" stroke-width="0.5" stroke-dasharray="2,1.5"/>
-<g clip-path="url(#in20932)"><rect x="98" y="428" width="191.9" height="274.3" fill="#fff"/>
+<g clip-path="url(#in85612)"><rect x="98" y="428" width="191.9" height="274.3" fill="#fff"/>
 <g transform="translate(-1689.8 -3116.8) scale(6.000)">
 <defs><marker id="ah" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#000"/></marker></defs>
 <rect x="30" y="50" width="708" height="722" fill="#fff"/>
@@ -1983,8 +1979,6 @@
 <polygon points="456.2,215.6 457.6,215.7 457.0,219.9 455.7,219.7" fill="#000"/>
 <polygon points="304.2,623.9 302.8,623.6 303.7,619.5 305.1,619.8" fill="#000"/>
 <polygon points="440.2,119.5 439.6,122.2 436.9,121.6 437.5,118.9" fill="#000"/>
-<polygon points="317.2,731.0 313.5,729.7 314.4,727.1 318.1,728.4" fill="#000"/>
-<polygon points="452.7,94.2 448.8,93.5 449.3,90.8 453.2,91.5" fill="#000"/>
 </g>
 <text x="198.8" y="550.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">04</text>
 <text x="194.6" y="574.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">03</text>

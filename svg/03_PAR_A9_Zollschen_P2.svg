@@ -78,10 +78,6 @@
 <polyline points="640.3,233.4 640.3,233.6 640.4,233.7 640.4,234.6 639.7,236.0 638.3,236.8 636.4,237.3 634.4,238.3 632.5,239.3 630.0,240.7 627.5,242.1" fill="none" stroke="#7a7a7a" stroke-width="0.7"/>
 <polyline points="93.5,612.1 674.5,209.9" fill="none" stroke="#000" stroke-width="7.1"/>
 <polygon points="92.1,606.9 89.6,608.8 87.5,606.0 89.9,604.1" fill="#000"/>
-<polygon points="89.5,627.3 87.4,624.4 90.7,621.9 92.8,624.8" fill="#000"/>
-<polygon points="78.9,613.1 76.8,610.2 80.1,607.8 82.2,610.6" fill="#000"/>
-<polygon points="64.5,628.7 68.7,634.6 64.6,637.5 60.4,631.6" fill="#000"/>
-<polygon points="108.6,653.1 106.2,649.2 109.3,647.4 111.6,651.3" fill="#000"/>
 <text x="78.7" y="622.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.3 78.7 622.3)" dominant-baseline="central">05</text>
 <text x="689.3" y="199.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-304.7 689.3 199.7)" dominant-baseline="central">23</text>
 <text x="146.7" y="558.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(55.5 146.7 558.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">04</text>

@@ -2,7 +2,7 @@
 <rect width="768" height="1024" fill="#fff"/>
 <text x="30.0" y="22.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >TERPS</text>
 <text x="30.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >AERODROME CHART</text>
-<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 75 · P1/2</text>
+<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 75 · P1/3</text>
 <text x="738.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#000" >DAMGARTEN - PUTNITZ (XEDG)</text>
 <clipPath id="mc"><rect x="30" y="50" width="708" height="722"/></clipPath>
 <g clip-path="url(#mc)">
@@ -4857,7 +4857,6 @@
 <polygon points="80.7,332.7 88.9,332.6 89.2,346.4 81.0,346.6" fill="#000"/>
 <polygon points="208.1,272.8 206.3,261.1 212.6,260.1 214.4,271.8" fill="#000"/>
 <polygon points="216.6,271.5 214.8,259.8 221.1,258.8 222.9,270.5" fill="#000"/>
-<polygon points="113.5,309.7 111.5,310.0 111.2,308.2 113.2,307.8" fill="#000"/>
 <polygon points="164.7,253.9 163.0,252.3 166.6,248.4 168.3,250.0" fill="#000"/>
 <polygon points="196.8,396.0 189.7,393.2 192.0,387.2 199.1,390.0" fill="#000"/>
 <polygon points="113.5,381.6 106.6,381.6 106.6,378.8 113.5,378.8" fill="#000"/>
@@ -4910,12 +4909,9 @@
 <polygon points="180.3,407.1 181.4,404.2 185.4,405.8 184.3,408.7" fill="#000"/>
 <polygon points="118.6,354.8 118.6,351.7 122.9,351.7 122.9,354.8" fill="#000"/>
 <polygon points="109.5,335.0 106.4,335.0 106.5,330.7 109.5,330.7" fill="#000"/>
-<polygon points="503.0,329.5 504.6,333.3 502.7,334.1 501.1,330.3" fill="#000"/>
 <polygon points="335.0,571.8 329.9,568.3 331.5,566.0 336.6,569.4" fill="#000"/>
 <polygon points="337.6,567.8 332.5,564.4 334.0,562.0 339.2,565.5" fill="#000"/>
 <polygon points="332.7,575.5 327.6,572.0 329.1,569.7 334.3,573.1" fill="#000"/>
-<polygon points="502.7,335.9 505.3,335.5 505.6,337.5 503.0,337.9" fill="#000"/>
-<polygon points="468.0,349.6 465.5,350.4 464.9,348.4 467.4,347.6" fill="#000"/>
 <rect x="303.6" y="347.8" width="4" height="4" fill="#000"/>
 <rect x="381.7" y="535.3" width="4" height="4" fill="#000"/>
 <rect x="152.0" y="388.3" width="4" height="4" fill="#555"/>

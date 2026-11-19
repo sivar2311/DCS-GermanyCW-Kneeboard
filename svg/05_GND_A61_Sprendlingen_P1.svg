@@ -514,7 +514,6 @@
 <polygon points="435.4,621.3 433.7,622.1 431.3,616.8 433.0,616.0" fill="#000"/>
 <polygon points="351.2,242.1 353.0,241.4 355.1,246.9 353.3,247.6" fill="#000"/>
 <polygon points="487.9,701.5 489.1,705.1 485.5,706.4 484.3,702.8" fill="#000"/>
-<polygon points="269.7,107.1 264.1,109.3 262.1,104.1 267.7,101.9" fill="#000"/>
 <rect x="434.2" y="595.4" width="4" height="4" fill="#555"/>
 <rect x="340.8" y="244.8" width="4" height="4" fill="#555"/>
 <rect x="438.4" y="605.8" width="4" height="4" fill="#555"/>
@@ -531,8 +530,8 @@
 <text x="370.0" y="90.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#000" >ELEV</text><text x="370.0" y="103.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >411</text><text x="384.0" y="103.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text><text x="370.0" y="116.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >125</text><text x="380.0" y="116.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[m]</text>
 <rect x="428" y="60" width="300" height="76" fill="#fff" stroke="#999"/>
 <text x="438.0" y="78.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="start" fill="#000" >Coordinates:</text>
-<text x="438.0" y="100.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >Hold positions from DCS holding signs.</text>
-<text x="438.0" y="113.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >TWY letters from DCS location / holding signs.</text>
+<text x="438.0" y="100.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >No taxiway signs in DCS at this airfield:</text>
+<text x="438.0" y="113.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >no TWY letters and hold positions.</text>
 <g stroke="#000" fill="none"><line x1="678" y1="702" x2="678" y2="654"/><polygon points="678,650 675,658 681,658" fill="#000"/></g><line x1="678" y1="702" x2="668.4" y2="657.0" stroke="#000"/><polygon points="667.6,653.1 665.5,659.6 671.4,658.4" fill="#000"/><text x="680.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >TN</text><text x="663.6" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >MN</text><text x="668.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-102.0 668.5 681.5)" >VAR 0.2° W (1999)</text>
 </g>
 <rect x="30" y="50" width="708" height="722" fill="none" stroke="#000" stroke-width="1.2"/>

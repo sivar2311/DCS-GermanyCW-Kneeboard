@@ -3061,7 +3061,6 @@
 <polygon points="202.5,501.5 202.2,499.7 204.1,499.4 204.4,501.2" fill="#000"/>
 <polygon points="214.3,493.7 214.6,495.5 212.6,495.8 212.4,494.0" fill="#000"/>
 <polygon points="214.8,495.3 214.7,493.6 216.6,493.4 216.8,495.1" fill="#000"/>
-<polygon points="355.9,421.2 353.1,420.0 355.4,414.6 358.1,415.8" fill="#000"/>
 <polygon points="173.5,453.5 176.0,453.4 176.1,457.1 173.6,457.2" fill="#000"/>
 <polygon points="173.6,457.8 176.0,457.8 176.1,461.5 173.6,461.5" fill="#000"/>
 <polygon points="614.7,475.1 616.9,470.3 621.6,472.5 619.4,477.2" fill="#000"/>
@@ -3071,7 +3070,6 @@
 <polygon points="177.8,450.9 176.4,451.0 176.4,446.7 177.8,446.7" fill="#000"/>
 <polygon points="362.8,315.3 364.0,315.8 362.4,319.8 361.1,319.2" fill="#000"/>
 <polygon points="157.0,347.9 155.6,347.9 155.6,343.6 157.0,343.6" fill="#000"/>
-<polygon points="221.9,521.7 223.6,521.6 223.8,524.4 222.0,524.5" fill="#000"/>
 <polygon points="343.6,275.0 341.8,280.3 340.0,279.7 341.8,274.4" fill="#000"/>
 <polygon points="153.5,527.7 159.2,527.8 159.1,529.6 153.5,529.6" fill="#000"/>
 <polygon points="148.6,560.3 143.0,560.4 142.9,558.6 148.6,558.4" fill="#000"/>
@@ -3084,9 +3082,6 @@
 <polygon points="184.6,363.3 183.3,362.8 184.3,360.2 185.7,360.7" fill="#000"/>
 <polygon points="588.5,538.0 587.9,536.8 591.6,534.7 592.3,536.0" fill="#000"/>
 <polygon points="599.6,530.4 600.3,531.7 596.5,533.7 595.9,532.5" fill="#000"/>
-<polygon points="205.5,554.5 208.8,554.4 208.9,557.7 205.6,557.8" fill="#000"/>
-<polygon points="210.4,553.4 211.2,556.5 208.1,557.3 207.3,554.2" fill="#000"/>
-<polygon points="209.8,554.9 210.7,558.0 207.6,558.9 206.7,555.8" fill="#000"/>
 <text x="644.6" y="511.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-67.7 644.6 511.1)" dominant-baseline="central">29</text>
 <text x="147.6" y="306.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-67.7 147.6 306.8)" dominant-baseline="central">11</text>
 <circle cx="171.4" cy="455.3" r="1.8" fill="#333"/>
@@ -3108,10 +3103,10 @@
 <text x="310.1" y="311.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-68.9 310.1 311.3)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">04</text>
 <text x="354.1" y="354.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH</text>
 <g stroke="#000" fill="none"><line x1="678" y1="120" x2="678" y2="72"/><polygon points="678,68 675,76 681,76" fill="#000"/></g><line x1="678" y1="120" x2="687.6" y2="75.0" stroke="#000"/><polygon points="688.4,71.1 684.6,76.4 690.5,77.6" fill="#000"/><text x="676.0" y="65.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="692.4" y="71.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="687.5" y="99.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 687.5 99.5)" >VAR 1.1° E (1999)</text>
-<clipPath id="in132"><rect x="498" y="118" width="110.7" height="315.8"/></clipPath>
+<clipPath id="in85612"><rect x="498" y="118" width="110.7" height="315.8"/></clipPath>
 <rect x="159.4" y="437.1" width="26.9" height="93.9" fill="none" stroke="#000" stroke-width="0.7" stroke-dasharray="2,1.5"/>
 <line x1="172.8" y1="484.0" x2="553.3" y2="275.9" stroke="#000" stroke-width="0.5" stroke-dasharray="2,1.5"/>
-<g clip-path="url(#in132)"><rect x="498" y="118" width="110.7" height="315.8" fill="#fff"/>
+<g clip-path="url(#in85612)"><rect x="498" y="118" width="110.7" height="315.8" fill="#fff"/>
 <g transform="translate(34.8 -1169.2) scale(3.000)">
 <defs><marker id="ah" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#000"/></marker></defs>
 <rect x="30" y="50" width="708" height="722" fill="#fff"/>
@@ -6116,7 +6111,6 @@
 <polygon points="202.5,501.5 202.2,499.7 204.1,499.4 204.4,501.2" fill="#000"/>
 <polygon points="214.3,493.7 214.6,495.5 212.6,495.8 212.4,494.0" fill="#000"/>
 <polygon points="214.8,495.3 214.7,493.6 216.6,493.4 216.8,495.1" fill="#000"/>
-<polygon points="355.9,421.2 353.1,420.0 355.4,414.6 358.1,415.8" fill="#000"/>
 <polygon points="173.5,453.5 176.0,453.4 176.1,457.1 173.6,457.2" fill="#000"/>
 <polygon points="173.6,457.8 176.0,457.8 176.1,461.5 173.6,461.5" fill="#000"/>
 <polygon points="614.7,475.1 616.9,470.3 621.6,472.5 619.4,477.2" fill="#000"/>
@@ -6126,7 +6120,6 @@
 <polygon points="177.8,450.9 176.4,451.0 176.4,446.7 177.8,446.7" fill="#000"/>
 <polygon points="362.8,315.3 364.0,315.8 362.4,319.8 361.1,319.2" fill="#000"/>
 <polygon points="157.0,347.9 155.6,347.9 155.6,343.6 157.0,343.6" fill="#000"/>
-<polygon points="221.9,521.7 223.6,521.6 223.8,524.4 222.0,524.5" fill="#000"/>
 <polygon points="343.6,275.0 341.8,280.3 340.0,279.7 341.8,274.4" fill="#000"/>
 <polygon points="153.5,527.7 159.2,527.8 159.1,529.6 153.5,529.6" fill="#000"/>
 <polygon points="148.6,560.3 143.0,560.4 142.9,558.6 148.6,558.4" fill="#000"/>
@@ -6139,9 +6132,6 @@
 <polygon points="184.6,363.3 183.3,362.8 184.3,360.2 185.7,360.7" fill="#000"/>
 <polygon points="588.5,538.0 587.9,536.8 591.6,534.7 592.3,536.0" fill="#000"/>
 <polygon points="599.6,530.4 600.3,531.7 596.5,533.7 595.9,532.5" fill="#000"/>
-<polygon points="205.5,554.5 208.8,554.4 208.9,557.7 205.6,557.8" fill="#000"/>
-<polygon points="210.4,553.4 211.2,556.5 208.1,557.3 207.3,554.2" fill="#000"/>
-<polygon points="209.8,554.9 210.7,558.0 207.6,558.9 206.7,555.8" fill="#000"/>
 </g>
 <text x="549.0" y="199.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">09</text>
 <text x="557.7" y="366.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">16</text>
@@ -6155,7 +6145,7 @@
 <text x="556.1" y="390.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="#000" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round">17</text>
 </g>
 <rect x="498" y="118" width="110.7" height="315.8" fill="none" stroke="#000" stroke-width="1"/>
-<text x="504.0" y="132.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP WEST</text>
+<text x="504.0" y="132.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP SOUTH</text>
 </g>
 <rect x="30" y="50" width="708" height="722" fill="none" stroke="#000" stroke-width="1.2"/>
 <rect x="30" y="780" width="708" height="50" fill="none" stroke="#000" stroke-width="1"/>
@@ -6184,7 +6174,7 @@
 <text x="440.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >HELICOPTER</text>
 <line x1="160" y1="840" x2="160" y2="890" stroke="#000" stroke-width="0.6"/>
 <line x1="430" y1="840" x2="430" y2="890" stroke="#000" stroke-width="0.6"/>
-<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP WEST</text>
+<text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP SOUTH</text>
 <text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >08 - 17</text>
 <text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >08 - 17</text>
 <text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH</text>

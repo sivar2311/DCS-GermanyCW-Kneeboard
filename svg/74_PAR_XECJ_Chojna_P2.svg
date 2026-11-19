@@ -2,7 +2,7 @@
 <rect width="768" height="1024" fill="#fff"/>
 
 <text x="30.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
-<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 74 · P2/4</text>
+<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 74 · P2/3</text>
 <text x="738.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#000" >CHOJNA (XECJ)</text>
 <clipPath id="mc"><rect x="30" y="50" width="708" height="722"/></clipPath>
 <g clip-path="url(#mc)">
@@ -3259,14 +3259,14 @@
 <circle cx="119.7" cy="397.0" r="1.8" fill="#333"/>
 <circle cx="617.0" cy="416.7" r="1.8" fill="#333"/>
 <circle cx="474.7" cy="384.0" r="1.8" fill="#333"/>
-<text x="694.8" y="448.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-82.8 694.8 448.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">85</text>
+<circle cx="694.8" cy="448.4" r="1.8" fill="#333"/>
 <circle cx="407.9" cy="292.8" r="1.8" fill="#333"/>
 <circle cx="403.5" cy="292.3" r="1.8" fill="#333"/>
 <circle cx="246.7" cy="344.5" r="1.8" fill="#333"/>
 <circle cx="192.6" cy="357.1" r="1.8" fill="#333"/>
 <circle cx="602.1" cy="414.8" r="1.8" fill="#333"/>
 <circle cx="281.9" cy="363.0" r="1.8" fill="#333"/>
-<text x="679.6" y="424.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-55.2 679.6 424.7)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">83</text>
+<circle cx="679.6" cy="424.7" r="1.8" fill="#333"/>
 <circle cx="290.8" cy="322.1" r="1.8" fill="#333"/>
 <circle cx="398.3" cy="291.7" r="1.8" fill="#333"/>
 <text x="278.9" y="547.4" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-87.6 278.9 547.4)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">95</text>
@@ -3276,7 +3276,7 @@
 <circle cx="368.9" cy="375.9" r="1.8" fill="#333"/>
 <circle cx="393.4" cy="291.2" r="1.8" fill="#333"/>
 <circle cx="393.0" cy="346.0" r="1.8" fill="#333"/>
-<text x="682.9" y="446.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-82.8 682.9 446.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">86</text>
+<circle cx="682.9" cy="446.9" r="1.8" fill="#333"/>
 <circle cx="340.6" cy="368.6" r="1.8" fill="#333"/>
 <circle cx="267.3" cy="313.1" r="1.8" fill="#333"/>
 <circle cx="572.7" cy="411.0" r="1.8" fill="#333"/>
@@ -3292,7 +3292,7 @@
 <text x="290.3" y="547.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-87.6 290.3 547.9)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">97</text>
 <circle cx="360.5" cy="286.6" r="1.8" fill="#333"/>
 <circle cx="398.1" cy="335.4" r="1.8" fill="#333"/>
-<text x="691.3" y="432.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-55.2 691.3 432.8)" stroke="#fff" stroke-width="2.4" paint-order="stroke" stroke-linejoin="round" dominant-baseline="central">84</text>
+<circle cx="691.3" cy="432.8" r="1.8" fill="#333"/>
 <circle cx="308.2" cy="349.1" r="1.8" fill="#333"/>
 <circle cx="626.5" cy="417.8" r="1.8" fill="#333"/>
 <circle cx="558.4" cy="409.1" r="1.8" fill="#333"/>
@@ -3327,10 +3327,8 @@
 <circle cx="533.7" cy="405.8" r="1.8" fill="#333"/>
 <circle cx="255.4" cy="337.8" r="1.8" fill="#333"/>
 <circle cx="153.7" cy="376.3" r="1.8" fill="#333"/>
-<text x="304.6" y="399.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH</text><text x="304.6" y="412.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P3</text>
-<text x="240.4" y="551.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP WEST</text>
-<text x="551.6" y="436.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH-EAST</text><text x="551.6" y="449.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P4</text>
-<text x="699.4" y="467.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP EAST</text>
+<text x="403.8" y="409.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP NORTH</text><text x="403.8" y="422.9" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">see P3</text>
+<text x="240.4" y="551.2" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">RAMP SOUTH</text>
 <text x="444.9" y="378.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">☆</text>
 <text x="422.9" y="387.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="middle" fill="#000" dominant-baseline="central">TWR</text>
 <g stroke="#000" fill="none"><line x1="678" y1="120" x2="678" y2="72"/><polygon points="678,68 675,76 681,76" fill="#000"/></g><line x1="678" y1="120" x2="687.6" y2="75.0" stroke="#000"/><polygon points="688.4,71.1 684.6,76.4 690.5,77.6" fill="#000"/><text x="676.0" y="65.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="692.4" y="71.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="687.5" y="99.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 687.5 99.5)" >VAR 1.8° E (1999)</text>
@@ -3356,30 +3354,22 @@
 <line x1="555.0" y1="814" x2="555.0" y2="817" stroke="#000" stroke-width="0.6"/><text x="555.0" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >0</text>
 <line x1="589.0620562200395" y1="814" x2="589.0620562200395" y2="817" stroke="#000" stroke-width="0.6"/><text x="589.1" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >500</text>
 <text x="597.1" y="826.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text>
-<rect x="30" y="840" width="708" height="74" fill="none" stroke="#000" stroke-width="1"/>
+<rect x="30" y="840" width="708" height="50" fill="none" stroke="#000" stroke-width="1"/>
 <text x="40.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >RAMP</text>
 <text x="170.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT</text>
 <text x="440.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="start" fill="#000" >HELICOPTER</text>
 <text x="726.0" y="855.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="bold" text-anchor="end" fill="#000" >SHEET</text>
-<line x1="160" y1="840" x2="160" y2="914" stroke="#000" stroke-width="0.6"/>
-<line x1="430" y1="840" x2="430" y2="914" stroke="#000" stroke-width="0.6"/>
+<line x1="160" y1="840" x2="160" y2="890" stroke="#000" stroke-width="0.6"/>
+<line x1="430" y1="840" x2="430" y2="890" stroke="#000" stroke-width="0.6"/>
 <text x="40.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH</text>
-<text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 55</text>
-<text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >22 - 24, 26 - 27, 29, 31 - 34, 46 - 55</text>
+<text x="170.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >01 - 86</text>
+<text x="440.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >22 - 24, 26 - 27, 29, 31 - 34, 46 - 55, 60 - 82</text>
 <text x="726.0" y="870.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P3</text>
-<text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP WEST</text>
+<text x="40.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP SOUTH</text>
 <text x="170.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >87 - 98</text>
 <text x="440.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >–</text>
 <text x="726.0" y="882.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P2</text>
-<text x="40.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP NORTH-EAST</text>
-<text x="170.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >56 - 82</text>
-<text x="440.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >60 - 82</text>
-<text x="726.0" y="894.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P4</text>
-<text x="40.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >RAMP EAST</text>
-<text x="170.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >83 - 86</text>
-<text x="440.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >–</text>
-<text x="726.0" y="906.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="end" fill="#000" >P2</text>
-<text x="30.0" y="928.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
+<text x="30.0" y="904.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#444" >Stand numbers as shown in DCS. Ramp names from the direction of the stands seen from the aerodrome centre.</text>
 <text x="30.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start" fill="#000" >AIRCRAFT PARKING POSITIONS</text>
 <text x="738.0" y="1010.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="end" fill="#000" >CHOJNA (XECJ)</text>
 <text x="754.0" y="200.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#444" transform="rotate(90.0 754.0 200.0)" >Ground Chart for Digital Combat Simulator</text>

@@ -337,8 +337,6 @@
 <polygon points="311.6,742.1 310.9,744.9 307.3,744.0 307.9,741.2" fill="#000"/>
 <polygon points="299.6,694.3 298.7,695.6 294.8,692.8 295.7,691.5" fill="#000"/>
 <polygon points="466.6,172.5 468.1,172.8 467.1,177.6 465.5,177.3" fill="#000"/>
-<polygon points="358.3,414.6 361.2,415.1 360.8,417.3 357.9,416.8" fill="#000"/>
-<polygon points="425.5,154.7 422.6,155.0 422.3,152.7 425.2,152.5" fill="#000"/>
 <rect x="297.9" y="671.4" width="4" height="4" fill="#555"/>
 <rect x="460.2" y="160.3" width="4" height="4" fill="#555"/>
 <rect x="457.8" y="170.7" width="4" height="4" fill="#555"/>
@@ -348,12 +346,12 @@
 <text x="464.4" y="85.8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#000" transform="rotate(-346.1 464.4 85.8)" dominant-baseline="central">18</text>
 <line x1="321.5" y1="722.1" x2="332.5" y2="677.5" stroke="#000" stroke-width="1.8"/><polygon points="334.9,667.8 337.2,679.6 327.4,677.2" fill="#000"/><text x="343.0" y="701.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">013°</text>
 <line x1="446.5" y1="99.9" x2="435.5" y2="144.5" stroke="#000" stroke-width="1.8"/><polygon points="433.1,154.2 430.8,142.4 440.6,144.8" fill="#000"/><text x="425.0" y="120.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" text-anchor="middle" fill="#000" dominant-baseline="central">193°</text>
-<text x="401.5" y="415.3" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-76.1 401.5 415.3)" dominant-baseline="central">2795 x 45 [m] / 9170 x 148 [ft]</text>
+<text x="366.5" y="406.7" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-76.1 366.5 406.7)" dominant-baseline="central">2795 x 45 [m] / 9170 x 148 [ft]</text>
 <text x="370.0" y="120.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="normal" text-anchor="middle" fill="#000" >ELEV</text><text x="370.0" y="133.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >282</text><text x="384.0" y="133.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[ft]</text><text x="370.0" y="146.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="#000" >86</text><text x="380.0" y="146.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000" >[m]</text>
 <rect x="40" y="60" width="300" height="76" fill="#fff" stroke="#999"/>
 <text x="50.0" y="78.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="10" font-weight="bold" text-anchor="start" fill="#000" >Coordinates:</text>
-<text x="50.0" y="100.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >Hold positions from DCS holding signs.</text>
-<text x="50.0" y="113.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >TWY letters from DCS location / holding signs.</text>
+<text x="50.0" y="100.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >No taxiway signs in DCS at this airfield:</text>
+<text x="50.0" y="113.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="8.5" font-weight="normal" text-anchor="start" fill="#000" >no TWY letters and hold positions.</text>
 <g stroke="#000" fill="none"><line x1="130" y1="702" x2="130" y2="654"/><polygon points="130,650 127,658 133,658" fill="#000"/></g><line x1="130" y1="702" x2="139.6" y2="657.0" stroke="#000"/><polygon points="140.4,653.1 136.6,658.4 142.5,659.6" fill="#000"/><text x="128.0" y="647.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="end" fill="#000" >TN</text><text x="144.4" y="653.1" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7.5" font-weight="normal" text-anchor="start" fill="#000" >MN</text><text x="139.5" y="681.5" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="6" font-weight="normal" text-anchor="middle" fill="#000" transform="rotate(-78.0 139.5 681.5)" >VAR 1.1° E (1999)</text>
 </g>
 <rect x="30" y="50" width="708" height="722" fill="none" stroke="#000" stroke-width="1.2"/>

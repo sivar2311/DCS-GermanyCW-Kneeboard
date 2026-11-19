@@ -2,7 +2,7 @@
 <rect width="768" height="1024" fill="#fff"/>
 <text x="30.0" y="22.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >TERPS</text>
 <text x="30.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#000" >AERODROME CHART</text>
-<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 11 · P1/4</text>
+<text x="384.0" y="16.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000" >GND 11 · P1/3</text>
 <text x="738.0" y="42.0" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#000" >LARZ - MURITZ AIRPARK (EDAX)</text>
 <clipPath id="mc"><rect x="30" y="50" width="708" height="722"/></clipPath>
 <g clip-path="url(#mc)">

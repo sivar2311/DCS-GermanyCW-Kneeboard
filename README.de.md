@@ -72,5 +72,5 @@ Oben auf jedem Blatt steht der Verweis für die Kartenmappe, z. B. `GND 59 · P2
 
 [Flugplätze nach Kennung](airfields_by_code.de.md) · [Flugplätze nach Name](airfields_by_name.de.md)
 
-83 Flugplätze, 216 Blätter.
+83 Flugplätze, 209 Blätter.
 

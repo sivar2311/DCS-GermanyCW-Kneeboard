@@ -73,5 +73,5 @@ At the top of every sheet is the reference for the chart binder, e.g. `GND 59 ·
 
 [Airfields by code](airfields_by_code.md) · [Airfields by name](airfields_by_name.md)
 
-83 airfields, 216 sheets.
+83 airfields, 209 sheets.
 
