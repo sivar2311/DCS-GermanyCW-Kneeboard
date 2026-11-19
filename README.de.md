@@ -2,6 +2,9 @@
 
 [English](README.md) | **Deutsch**
 
+> [!IMPORTANT]
+> **Dieses Repository ist umgezogen.** Die Karten für Germany Cold War und die anderen DCS-Karten liegen jetzt in **[DCS Aerodrome Charts](https://github.com/sivar2311/DCS-Aerodrome-Charts)**, Downloads unter [Releases](https://github.com/sivar2311/DCS-Aerodrome-Charts/releases/latest). Dieses Repository wird nicht mehr aktualisiert.
+
 Platzkarten (GND) und Parkpositionskarten (PAR) für alle Flugplätze mit befestigter Bahn ab 1000 m der DCS-Karte **Germany Cold War**, auch für die Plätze in Dänemark, Schweden und Polen. Grasplätze sind nicht enthalten. Gestaltet sind die Karten nach dem Vorbild der offiziellen DCS-Karten für den Kaukasus.
 
 > Inoffizielle Karten, nicht von Eagle Dynamics. Nur für die Simulation, **nicht für die reale Navigation**.

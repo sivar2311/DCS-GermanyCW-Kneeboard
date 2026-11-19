@@ -2,6 +2,9 @@
 
 **English** | [Deutsch](README.de.md)
 
+> [!IMPORTANT]
+> **This repository has moved.** The charts for Germany Cold War and the other DCS maps are now in **[DCS Aerodrome Charts](https://github.com/sivar2311/DCS-Aerodrome-Charts)**, with downloads under [Releases](https://github.com/sivar2311/DCS-Aerodrome-Charts/releases/latest). This repository is no longer updated.
+
 These are aerodrome charts (GND) and parking position charts (PAR) for every airfield with a paved runway of 1000 m or more on the DCS World map **Germany Cold War**, including the airfields in Denmark, Sweden and Poland. Grass strips are not included. The style follows the official DCS charts for the Caucasus map.
 
 > Unofficial charts, not made by Eagle Dynamics. For simulation only, **not for real-world navigation**.
